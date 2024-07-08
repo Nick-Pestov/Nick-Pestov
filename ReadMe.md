@@ -6,6 +6,8 @@
 
 <img src="20240602_165903~3.jpg" alt="My Picture" width="400"/>
 
+Here's a picture of me with one of my favourite footballers, Juan Cuadrado
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nick-pestov/) [![Alt Account](https://img.shields.io/badge/GitHub-white?style=social&logo=github)](https://github.com/NickKeelDigital) <-- My work account
