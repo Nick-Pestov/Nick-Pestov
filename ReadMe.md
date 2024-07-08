@@ -3,7 +3,7 @@
 <br> 🌱 Learning about theoretical AI, Statistics, and Data Science.
 <br> ⚽️ Ask me about Python, SQL, Football and Chess :)
 <br> ♟ Fun fact: I got a winning position against GM Hikaru Nakamura while Blindfolded in chess. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
-<br> 🏆Favourite Project: My first ever Hackathon project at Georgia Tech's, Hacklytics Hackathon 2024. Orchestrated EstateEdge which won 3rd overall in the Financial Track and Third in Intel's: Best Use of Intel Developer Cloud. Check it out over [here]([https://github.com/Nick-Pestov/EstateEdge___Hacklytics2024_ThirdPlace_Project))
+<br> 🏆Favourite Project: My first ever Hackathon project at Georgia Tech's, Hacklytics Hackathon 2024. Orchestrated EstateEdge which won 3rd overall in the Financial Track and Third in Intel's: Best Use of Intel Developer Cloud. Check it out over [here]([https://github.com/Nick-Pestov/EstateEdge___Hacklytics2024_ThirdPlace_Project)
 
 <img src="20240602_165903~3.jpg" alt="My Picture" width="400"/>
 
