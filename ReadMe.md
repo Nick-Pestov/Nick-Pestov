@@ -4,7 +4,7 @@
 <br> ⚽️ Ask me about Python, SQL, Football and Chess :)
 <br> ♟ Fun fact: Got a winning position against GM Hikaru Nakamura while Blindfolded. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
 
-<img src="20240602_165903~2.jpg" alt="My Picture" width="500"/>
+<img src="20240602_165903~2.jpg" alt="My Picture" width="400"/>
 
 
 ## 🌐 Socials:
