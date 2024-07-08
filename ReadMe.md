@@ -4,6 +4,8 @@
 <br> ⚽️ Ask me about Python, SQL, Football and Chess :)
 <br> ♟ Fun fact: Got a winning position against GM Hikaru Nakamura while Blindfolded. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
 
+![My Picture](20240602_165903~2.jpg)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nick-pestov/) [![Alt Account](https://img.shields.io/badge/GitHub-white?style=social&logo=github)](https://github.com/NickKeelDigital) <-- My work account
