@@ -2,7 +2,7 @@
 🎬 Currently working as a Backend Engineer at Keel Mind, and exploring various AI projects.
 <br>🌱 Learning about theoretical AI, Statistics, and Data Science.
 <be⚽️ Ask me about Python, SQL, Football and Chess :)
-<br> ♟ Fun fact: Got a winning position against GM Hikaru Nakamura while Blindfolded. Check it out on his channel here: [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
+<br> ♟ Fun fact: Got a winning position against GM Hikaru Nakamura while Blindfolded. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
 
 
 ## 🌐 Socials:
