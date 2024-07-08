@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎬 Currently working as a Backend Engineer at Keel Mind, and exploring various AI projects.
+🎬 Currently working as a Backend Engineer Intern at Keel Mind, and exploring various AI projects.
 <br> 🌱 Learning about theoretical AI, Statistics, and Data Science.
 <br> ⚽️ Ask me about Python, SQL, Football and Chess :)
 <br> ♟ Fun fact: I got a winning position against GM Hikaru Nakamura while Blindfolded in chess. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
