@@ -1,5 +1,6 @@
 # 💫 About Me:
-🎬 Currently working as a Junior Backend Engineer at Keel Mind, and led the development of https://briefly.law/ and now working on a financial application and trading algorithm expected to do 60% accuracy and over 5% per quarter
+💻 Currently working as a Junior Backend Engineer at Keel Mind
+<br> 🎬 Led the development of https://briefly.law/ and now building a financial application + trading algorithm expected to do 60% accuracy and over 5% per quarter under Synaptifund
 <br> 🌱 Learning about theoretical AI, Statistics, and Data Science.
 <br> ♟ Fun Fact: I got a winning position against GM Hikaru Nakamura while Blindfolded in chess. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
 <br> 🏆 Favourite Project: My first ever Hackathon project at Georgia Tech's, Hacklytics Hackathon 2024. Check it out over [here](https://github.com/Nick-Pestov/EstateEdge___Hacklytics2024_ThirdPlace_Project)
