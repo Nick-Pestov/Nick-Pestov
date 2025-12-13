@@ -7,7 +7,7 @@
 <br> 🚀 Every commit you see is of a feature or bug resolution, not trying to have a vibrant green graph of updating READMEs
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nick-pestov/) [![Alt Account](https://img.shields.io/badge/GitHub-white?style=social&logo=github)](https://github.com/NickKeelDigital) <-- My work account
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nick-pestov/) 
 <br> [Leetcode](https://leetcode.com/u/NickieChmikie/)
 
 # 💻 Tech Stack:
