@@ -24,3 +24,8 @@
 [![](https://visitcount.itsvg.in/api?id=Nick-Pestov&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+Other account:
+
+<img width="1371" height="350" alt="image" src="https://github.com/user-attachments/assets/aa2b1bce-a233-47dc-a774-c47a47589b01" />
+
