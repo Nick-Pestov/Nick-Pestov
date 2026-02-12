@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Currently working as a Junior Backend Engineer at Keel Mind
+💻 Currently working on startup targeting agentic AI in finance
 <br> 🎬 Led the development of https://briefly.law/ and now building a financial application + trading algorithm expected to do 60% accuracy and over 5% per quarter under Synaptifund
 <br> 🌱 Learning about theoretical AI, Statistics, and Data Science.
 <br> ♟ Fun Fact: I got a winning position against GM Hikaru Nakamura while Blindfolded in chess. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
