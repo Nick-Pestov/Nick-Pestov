@@ -4,7 +4,7 @@
 <br> 🌱 Learning about theoretical AI, Statistics, and Data Science.
 <br> ♟ Fun Fact: I got a winning position against GM Hikaru Nakamura while Blindfolded in chess. Check it out on his channel [here](https://youtu.be/eBkDBRMLmp4?si=uqH4Ea9Mw6FTFObG&t=389)
 <br> 🏆 Favourite Project: My first ever Hackathon project at Georgia Tech's, Hacklytics Hackathon 2024. Check it out over [here](https://github.com/Nick-Pestov/EstateEdge___Hacklytics2024_ThirdPlace_Project)
-<br> 🚀 Every commit you see is of a feature or bug resolution, not trying to have a vibrant green graph of updating READMEs
+<br> 🚀 Every commit you see is of a feature or bug resolution, not trying to have a vibrant green graph of updating READMEs LOL
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nick-pestov/) 
